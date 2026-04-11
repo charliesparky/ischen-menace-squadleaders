@@ -5,7 +5,7 @@
   "forename": "Rumi",
   "surname": "Vyzovich",
   "description": "Name: Rumi Vyzovich\n\nProficiency: Logistics\n\nBirth: Detritus\n\nAge: Classified\n\nAffiliation(s): Frauleins",
-  "title": "Fraulein",
+  "title": "Fraulein der Krieg",
   "unit_description": "The Fraulein's logistics expert. She desires to formalize the first Fraulein idol group, and she is working hard on her performance skills everyday.",
   "quality_level": 3,
   "growth_potential": 10,
@@ -16,7 +16,7 @@
 
   "attributes": {
     "agility": 100,
-    "weapon_skill": 70,
+    "weapon_skill": 65,
     "valour": 95,
     "toughness": 70,
     "vitality": 50,
