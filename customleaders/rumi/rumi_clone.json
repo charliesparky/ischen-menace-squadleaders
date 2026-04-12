@@ -1,0 +1,41 @@
+{
+  "clone_from": "carda",
+  "nickname": "Rumi",
+  "blackmarket_available": true,
+  "forename": "Rumi",
+  "surname": "Vyzovich",
+  "description": "Name: Rumi Vyzovich\n\nProficiency: Logistics\n\nBirth: Detritus\n\nAge: Classified\n\nAffiliation(s): Frauleins",
+  "title": "Fraulein der Krieg",
+  "unit_description": "The Fraulein's logistics expert. She desires to formalize the first Fraulein idol group, and she is working hard on her performance skills everyday.",
+  "quality_level": 3,
+  "growth_potential": 10,
+  "fixed_supply_cost": 10,
+  "promotion_tax": 5,
+  "squaddie_tax": 10,
+  "rarity": 3,
+
+  "attributes": {
+    "agility": 85,
+    "weapon_skill": 65,
+    "valour": 90,
+    "toughness": 70,
+    "vitality": 50,
+    "precision": 20,
+    "positioning": 90
+  },
+
+  "initial_perk": "gostepriimstvo_babushki",
+  "perk_trees": [
+    {
+      "perks": [
+        { "name": "athletic", "tier": 1 },
+        { "name": "mobile_infantry", "tier": 1 },
+        { "name": "bags_belts", "tier": 1 },
+        { "name": "buff", "tier": 2 },
+        { "name": "this_is_my_rifle", "tier": 2 },
+        { "name": "unique_sy_economics", "tier": 3 },
+        { "name": "team_spirit", "tier": 4 }
+      ]
+    }
+  ]
+}
