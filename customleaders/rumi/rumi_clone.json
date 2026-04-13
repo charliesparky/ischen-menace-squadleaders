@@ -30,11 +30,11 @@
       "perks": [
         { "name": "athletic", "tier": 1 },
         { "name": "mobile_infantry", "tier": 1 },
-        { "name": "bags_belts", "tier": 1 },
-        { "name": "buff", "tier": 2 },
+        { "name": "buff", "tier": 1 },
+        { "name": "flamboyant", "tier": 2 },
         { "name": "this_is_my_rifle", "tier": 2 },
-        { "name": "unique_sy_economics", "tier": 3 },
-        { "name": "team_spirit", "tier": 4 }
+        { "name": "bags_belts", "tier": 3 },
+        { "name": "unique_rampage_tech", "tier": 4 }
       ]
     }
   ]
