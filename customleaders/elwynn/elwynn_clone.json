@@ -29,12 +29,12 @@
     {
       "perks": [
         { "name": "athletic", "tier": 1 },
-        { "name": "unique_greifinger_guerilla", "tier": 1 },
+        { "name": "sharpshooter", "tier": 1 },
         { "name": "call_out_target", "tier": 1 },
-        { "name": "sharpshooter", "tier": 2 },
-        { "name": "finishing_shot", "tier": 2 },
-        { "name": "critical_hits", "tier": 3 },
-        { "name": "impossible_shot", "tier": 4 }
+        { "name": "impossible_shot", "tier": 2 },
+        { "name": "critical_hits", "tier": 2 },
+        { "name": "team_spirit", "tier": 3 },
+        { "name": "jump_the_grenade", "tier": 4 }
       ]
     }
   ]
