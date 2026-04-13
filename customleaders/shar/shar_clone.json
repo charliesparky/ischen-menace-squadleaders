@@ -16,12 +16,12 @@
 
   "attributes": {
     "agility": 95,
-    "weapon_skill": 70,
-    "valour": 95,
+    "weapon_skill": 75,
+    "valour": 100,
     "toughness": 50,
     "vitality": 50,
     "precision": 0,
-    "positioning": 90
+    "positioning": 80
   },
 
   "initial_perk": "shieldwall",
@@ -30,11 +30,11 @@
       "perks": [
         { "name": "expert_pilot_vehicle", "tier": 1 },
         { "name": "unbreakable_vehicle", "tier": 1 },
-        { "name": "roadkill", "tier": 1 },
-        { "name": "tankbuster", "tier": 2 },
-        { "name": "full_send", "tier": 2 },
-        { "name": "bags_belts", "tier": 3 },
-        { "name": "barrage", "tier": 4 }
+        { "name": "full_send", "tier": 1 },
+        { "name": "drive_by", "tier": 2 },
+        { "name": "overload_vehicle", "tier": 2 },
+        { "name": "roadkill", "tier": 3 },
+        { "name": "scout", "tier": 4 }
       ]
     }
   ]
