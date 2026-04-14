@@ -9,17 +9,17 @@
   "unit_description": "The Fraulein's very dedicated Armored Support Personnel. Loves being around machines to the point she refuses to sleep without the white noise of one, she can control any vehicle like it handles like a video game.",
   "quality_level": 3,
   "growth_potential": 10,
-  "fixed_supply_cost": 40,
+  "fixed_supply_cost": 60,
   "promotion_tax": 5,
   "squaddie_tax": 5,
   "rarity": 3,
 
   "attributes": {
-    "agility": 95,
+    "agility": 100,
     "weapon_skill": 75,
     "valour": 100,
     "toughness": 50,
-    "vitality": 50,
+    "vitality": 100,
     "precision": 0,
     "positioning": 80
   },
