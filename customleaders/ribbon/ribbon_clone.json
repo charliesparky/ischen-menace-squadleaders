@@ -32,7 +32,7 @@
         { "name": "run_and_gun", "tier": 1 },
         { "name": "unique_yaz_no_mercy", "tier": 1 },
         { "name": "berserk", "tier": 2 },
-        { "name": "firing_line", "tier": 2 },
+        { "name": "impossible_shot", "tier": 2 },
         { "name": "minimize_silhouette", "tier": 3 },
         { "name": "sharpshooter", "tier": 4 }
       ]
