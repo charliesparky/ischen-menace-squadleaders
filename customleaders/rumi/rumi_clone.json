@@ -11,7 +11,7 @@
   "growth_potential": 10,
   "fixed_supply_cost": 10,
   "promotion_tax": 5,
-  "squaddie_tax": 10,
+  "squaddie_tax": 13,
   "rarity": 3,
 
   "attributes": {
