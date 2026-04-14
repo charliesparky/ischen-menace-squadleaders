@@ -11,15 +11,15 @@
   "growth_potential": 10,
   "fixed_supply_cost": 10,
   "promotion_tax": 5,
-  "squaddie_tax": 13,
+  "squaddie_tax": 15,
   "rarity": 3,
 
   "attributes": {
-    "agility": 85,
-    "weapon_skill": 65,
+    "agility": 100,
+    "weapon_skill": 70,
     "valour": 90,
     "toughness": 70,
-    "vitality": 50,
+    "vitality": 100,
     "precision": 20,
     "positioning": 90
   },
