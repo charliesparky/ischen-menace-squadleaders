@@ -24,15 +24,15 @@
     "positioning": 70
   },
 
-  "initial_perk": "counter_strike",
+  "initial_perk": "firing_line",
   "perk_trees": [
     {
       "perks": [
         { "name": "athletic", "tier": 1 },
-        { "name": "determined", "tier": 1 },
-        { "name": "payback", "tier": 1 },
+        { "name": "run_and_gun", "tier": 1 },
+        { "name": "grenadier", "tier": 1 },
+        { "name": "determined", "tier": 2 },
         { "name": "fearsome", "tier": 2 },
-        { "name": "if_it_bleeds", "tier": 2 },
         { "name": "die_hard", "tier": 3 },
         { "name": "divine_intervention", "tier": 4 }
       ]
