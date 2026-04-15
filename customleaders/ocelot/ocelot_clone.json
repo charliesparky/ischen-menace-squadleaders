@@ -1,0 +1,41 @@
+{
+  "clone_from": "lim",
+  "nickname": "Ocelot",
+  "blackmarket_available": true,
+  "forename": "Leon",
+  "surname": "Vyzovich",
+  "description": "Name: Leon Vyzovich\n\nProficiency: Counterintelligence\n\nBirth: Detritus\n\nAge: Classified\n\nAffiliation(s): Frauleins",
+  "title": "Fraulein der Krieg",
+  "unit_description": "The Fraulein's counterintelligence expert. One of the few biological males in the group, he is assigned to the Cross Group, working separate from the ladies. He is a touted expert in interrogation techniques, but in reality, his best talent is making people trust him, especially his command.",
+  "quality_level": 3,
+  "growth_potential": 10,
+  "fixed_supply_cost": 20,
+  "promotion_tax": 5,
+  "squaddie_tax": 15,
+  "rarity": 3,
+
+  "attributes": {
+    "agility": 100,
+    "weapon_skill": 90,
+    "valour": 60,
+    "toughness": 50,
+    "vitality": 100,
+    "precision": 50,
+    "positioning": 100
+  },
+
+  "initial_perk": "taking_command",
+  "perk_trees": [
+    {
+      "perks": [
+        { "name": "athletic", "tier": 1 },
+        { "name": "covert_ops", "tier": 1 },
+        { "name": "deploy_decoy", "tier": 1 },
+        { "name": "call_out_target", "tier": 2 },
+        { "name": "lucky_shot", "tier": 2 },
+        { "name": "sharpshooter", "tier": 3 },
+        { "name": "unique_yaz_no_mercy", "tier": 4 }
+      ]
+    }
+  ]
+}
