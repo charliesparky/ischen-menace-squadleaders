@@ -29,12 +29,14 @@
     {
       "perks": [
         { "name": "athletic", "tier": 1 },
-        { "name": "run_and_gun", "tier": 1 },
-        { "name": "unique_yaz_no_mercy", "tier": 1 },
-        { "name": "berserk", "tier": 2 },
-        { "name": "impossible_shot", "tier": 2 },
-        { "name": "minimize_silhouette", "tier": 3 },
-        { "name": "sharpshooter", "tier": 4 }
+        { "name": "scout", "tier": 2 },
+        { "name": "berserk", "tier": 3 },
+        { "name": "sharpshooter", "tier": 4 },
+        { "name": "impossible_shot", "tier": 4 },
+        { "name": "minimize_silhouette", "tier": 4 },
+        { "name": "tankbuster", "tier": 4 },
+        { "name": "finishing_shot", "tier": 4 },
+        { "name": "jump_the_grenade", "tier": 4 }
       ]
     }
   ]
