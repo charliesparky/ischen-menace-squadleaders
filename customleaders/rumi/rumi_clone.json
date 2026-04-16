@@ -6,13 +6,13 @@
   "surname": "Vyzovich",
   "description": "Name: Rumi Vyzovich\n\nProficiency: Logistics\n\nBirth: Detritus\n\nAge: Classified\n\nAffiliation(s): Frauleins",
   "title": "Fraulein der Krieg",
-  "unit_description": "The Fraulein's logistics expert. She desires to formalize the first Fraulein idol group, and she is working hard on her performance skills everyday.",
-  "quality_level": 3,
+  "unit_description": "A Fraulein who is assigned to logistics, particularly with rapid supply distribution. She has a strong desire to express herself and be known positively due to her weird trait of being ridiculously strong despite her frame and annoying manner of speaking, and she has deduced that people take her seriously when she goes into battle doing her job while wielding heavy weaponry without proper bracing.",
+  "quality_level": 2,
   "growth_potential": 10,
-  "fixed_supply_cost": 10,
+  "fixed_supply_cost": 30,
   "promotion_tax": 5,
-  "squaddie_tax": 15,
-  "rarity": 3,
+  "squaddie_tax": 10,
+  "rarity": 2,
 
   "attributes": {
     "agility": 100,
@@ -24,17 +24,19 @@
     "positioning": 90
   },
 
-  "initial_perk": "gostepriimstvo_babushki",
+  "initial_perk": "buff",
   "perk_trees": [
     {
       "perks": [
         { "name": "athletic", "tier": 1 },
-        { "name": "mobile_infantry", "tier": 1 },
-        { "name": "buff", "tier": 1 },
-        { "name": "flamboyant", "tier": 2 },
-        { "name": "this_is_my_rifle", "tier": 2 },
+        { "name": "unique_rampage_tech", "tier": 2 },
         { "name": "bags_belts", "tier": 3 },
-        { "name": "unique_rampage_tech", "tier": 4 }
+        { "name": "suppressive_fire", "tier": 4 },
+        { "name": "full_send", "tier": 4 },
+        { "name": "grind_down", "tier": 4 },
+        { "name": "flamboyant", "tier": 4 },
+        { "name": "unique_darby_high_value_targets", "tier": 4 },
+        { "name": "if_it_bleeds", "tier": 4 }
       ]
     }
   ]
