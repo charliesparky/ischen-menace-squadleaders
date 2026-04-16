@@ -30,8 +30,8 @@
       "perks": [
         { "name": "expert_pilot_vehicle", "tier": 1 },
         { "name": "drive_by", "tier": 2 },
-        { "name": "close_and_personal", "tier": 3 },
-        { "name": "lancer", "tier": 4 },
+        { "name": "lancer", "tier": 3 },
+        { "name": "grind_down", "tier": 4 },
         { "name": "unbreakable_vehicle", "tier": 4 },
         { "name": "full_send", "tier": 4 },
         { "name": "to_shreds_vehicle", "tier": 4 },
