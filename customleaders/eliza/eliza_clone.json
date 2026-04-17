@@ -29,13 +29,13 @@
     {
       "perks": [
         { "name": "athletic", "tier": 1 },
-        { "name": "juiced", "tier": 2 },
-        { "name": "buff", "tier": 3 },
-        { "name": "lancer", "tier": 4 },
+        { "name": "berserk", "tier": 2 },
+        { "name": "lancer", "tier": 3 },
+        { "name": "stubborn", "tier": 4 },
         { "name": "divine_intervention", "tier": 4 },
-        { "name": "determined", "tier": 4 },
+        { "name": "unique_rewa_revel_in_slaughter", "tier": 4 },
         { "name": "tankbuster", "tier": 4 },
-        { "name": "grenadier", "tier": 4 },
+        { "name": "jump_the_grenade", "tier": 4 },
         { "name": "unique_wetteroth_big_game_hunter", "tier": 4 }
       ]
     }
