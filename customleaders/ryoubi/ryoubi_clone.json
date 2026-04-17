@@ -29,12 +29,14 @@
     {
       "perks": [
         { "name": "athletic", "tier": 1 },
-        { "name": "mobile_infantry", "tier": 1 },
-        { "name": "stalwart_pike_unique", "tier": 1 },
-        { "name": "unique_rampage_tech", "tier": 2 },
-        { "name": "sharpshooter", "tier": 2 },
-        { "name": "unique_yaz_no_mercy", "tier": 3 },
-        { "name": "berserk", "tier": 4 }
+        { "name": "mobile_infantry", "tier": 2 },
+        { "name": "stalwart_pike_unique", "tier": 3 },
+        { "name": "unique_rampage_tech", "tier": 4 },
+        { "name": "sharpshooter", "tier": 4 },
+        { "name": "unique_yaz_no_mercy", "tier": 4 },
+        { "name": "share_the_load", "tier": 4 },
+        { "name": "berserk", "tier": 4 },
+        { "name": "jump_the_grenade", "tier": 4 }
       ]
     }
   ]
