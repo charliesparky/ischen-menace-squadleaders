@@ -24,17 +24,19 @@
     "positioning": 100
   },
 
-  "initial_perk": "impossible_shot",
+  "initial_perk": "take_aim",
   "perk_trees": [
     {
       "perks": [
         { "name": "expert_pilot_vehicle", "tier": 1 },
-        { "name": "unique_juryrigged_bog", "tier": 1 },
-        { "name": "scout", "tier": 1 },
-        { "name": "take_aim", "tier": 2 },
-        { "name": "tankbuster", "tier": 2 },
-        { "name": "barrage", "tier": 3 },
-        { "name": "call_out_target", "tier": 4 }
+        { "name": "unique_juryrigged_bog", "tier": 2 },
+        { "name": "scout", "tier": 3 },
+        { "name": "tankbuster", "tier": 4 },
+        { "name": "barrage", "tier": 4 },
+        { "name": "unique_wetteroth_big_game_hunter", "tier": 4 },
+        { "name": "bags_belts", "tier": 4 },
+        { "name": "call_out_target", "tier": 4 },
+        { "name": "hotwire_vehicle", "tier": 4 }
       ]
     }
   ]
