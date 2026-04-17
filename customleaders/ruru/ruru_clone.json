@@ -29,12 +29,14 @@
     {
       "perks": [
         { "name": "athletic", "tier": 1 },
-        { "name": "tankbuster", "tier": 1 },
-        { "name": "unique_rampage_tech", "tier": 1 },
-        { "name": "run_and_gun", "tier": 2 },
-        { "name": "disdain", "tier": 2 },
-        { "name": "determined", "tier": 3 },
-        { "name": "directed_fire", "tier": 4 }
+        { "name": "unique_rampage_tech", "tier": 2 },
+        { "name": "tankbuster", "tier": 3 },
+        { "name": "run_and_gun", "tier": 4 },
+        { "name": "disdain", "tier": 4 },
+        { "name": "determined", "tier": 4 },
+        { "name": "bags_belts", "tier": 4 },
+        { "name": "directed_fire", "tier": 4 },
+        { "name": "berserk", "tier": 4 }
       ]
     }
   ]
