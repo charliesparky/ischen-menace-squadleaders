@@ -31,12 +31,12 @@
         { "name": "expert_pilot_vehicle", "tier": 1 },
         { "name": "drive_by", "tier": 2 },
         { "name": "lancer", "tier": 3 },
-        { "name": "grind_down", "tier": 4 },
+        { "name": "bags_belts", "tier": 4 },
         { "name": "unbreakable_vehicle", "tier": 4 },
         { "name": "full_send", "tier": 4 },
-        { "name": "to_shreds_vehicle", "tier": 4 },
-        { "name": "demolitions_expert", "tier": 4 },
-        { "name": "finishing_shot", "tier": 4 }
+        { "name": "barrage", "tier": 4 },
+        { "name": "unique_sentry", "tier": 4 },
+        { "name": "dash_walker", "tier": 4 }
       ]
     }
   ]
