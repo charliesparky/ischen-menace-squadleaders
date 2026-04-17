@@ -32,10 +32,10 @@
         { "name": "scout", "tier": 2 },
         { "name": "call_out_target", "tier": 3 },
         { "name": "take_aim", "tier": 4 },
-        { "name": "tankbuster", "tier": 4 },
-        { "name": "berserk", "tier": 4 },
-        { "name": "lucky_shot", "tier": 4 },
         { "name": "impossible_shot", "tier": 4 },
+        { "name": "berserk", "tier": 4 },
+        { "name": "unique_wetteroth_big_game_hunter", "tier": 4 },
+        { "name": "ambush", "tier": 4 },
         { "name": "unique_darby_high_value_targets", "tier": 4 }
       ]
     }
