@@ -16,12 +16,12 @@
 
   "attributes": {
     "agility": 100,
-    "weapon_skill": 95,
-    "valour": 95,
+    "weapon_skill": 900,
+    "valour": 30,
     "toughness": 50,
     "vitality": 100,
     "precision": 100,
-    "positioning": 60
+    "positioning": 100
   },
 
   "initial_perk": "scout",
@@ -29,13 +29,13 @@
     {
       "perks": [
         { "name": "athletic", "tier": 1 },
-        { "name": "sharpshooter", "tier": 2 },
-        { "name": "take_aim", "tier": 3 },
+        { "name": "call_out_target", "tier": 2 },
+        { "name": "sharpshooter", "tier": 3 },
         { "name": "critical_hits", "tier": 4 },
         { "name": "impossible_shot", "tier": 4 },
-        { "name": "ambush", "tier": 4 },
+        { "name": "bags_belts", "tier": 4 },
         { "name": "lucky_shot", "tier": 4 },
-        { "name": "fearsome", "tier": 4 },
+        { "name": "take_aim", "tier": 4 },
         { "name": "finishing_shot", "tier": 4 }
       ]
     }
