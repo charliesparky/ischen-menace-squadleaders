@@ -16,7 +16,7 @@
 
   "attributes": {
     "agility": 100,
-    "weapon_skill": 70,
+    "weapon_skill": 85,
     "valour": 90,
     "toughness": 70,
     "vitality": 100,
@@ -30,13 +30,13 @@
       "perks": [
         { "name": "athletic", "tier": 1 },
         { "name": "unique_rampage_tech", "tier": 2 },
-        { "name": "bags_belts", "tier": 3 },
-        { "name": "suppressive_fire", "tier": 4 },
-        { "name": "full_send", "tier": 4 },
+        { "name": "run_and_gun", "tier": 3 },
         { "name": "grind_down", "tier": 4 },
-        { "name": "flamboyant", "tier": 4 },
-        { "name": "unique_darby_high_value_targets", "tier": 4 },
-        { "name": "if_it_bleeds", "tier": 4 }
+        { "name": "full_send", "tier": 4 },
+        { "name": "bags_belts", "tier": 4 },
+        { "name": "taunt", "tier": 4 },
+        { "name": "suppressive_fire", "tier": 4 },
+        { "name": "power_in_numbers", "tier": 4 }
       ]
     }
   ]
