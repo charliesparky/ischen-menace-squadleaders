@@ -10,7 +10,7 @@
   "quality_level": 2,
   "growth_potential": 10,
   "fixed_supply_cost": 30,
-  "promotion_tax": 5,
+  "promotion_tax": 0,
   "squaddie_tax": 10,
   "rarity": 2,
 
