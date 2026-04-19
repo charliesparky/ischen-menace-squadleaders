@@ -30,12 +30,12 @@
       "perks": [
         { "name": "athletic", "tier": 1 },
         { "name": "unique_rampage_tech", "tier": 2 },
-        { "name": "run_and_gun", "tier": 3 },
-        { "name": "grind_down", "tier": 4 },
+        { "name": "suppressive_fire", "tier": 3 },
+        { "name": "run_and_gun", "tier": 4 },
         { "name": "full_send", "tier": 4 },
         { "name": "bags_belts", "tier": 4 },
         { "name": "taunt", "tier": 4 },
-        { "name": "suppressive_fire", "tier": 4 },
+        { "name": "grind_down", "tier": 4 },
         { "name": "power_in_numbers", "tier": 4 }
       ]
     }
