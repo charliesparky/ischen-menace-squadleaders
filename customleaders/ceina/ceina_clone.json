@@ -1,0 +1,43 @@
+{
+  "clone_from": "carda",
+  "nickname": "Ceina",
+  "blackmarket_available": true,
+  "forename": "Ceina",
+  "surname": "Nekonoma",
+  "description": "Name: Ceina Nekonoma\n\nProficiency: Learning\n\nBirth: Cypheria\n\nAge: Classified\n\nAffiliation(s): Black Box",
+  "title": "Black Box",
+  "unit_description": "The youngest robot child of Ribbon and the younger sister of Dushy. Curious and full of innocence. Shouldn't be here in the first place.",
+  "quality_level": 1,
+  "growth_potential": 10,
+  "fixed_supply_cost": 1,
+  "promotion_tax": 0,
+  "squaddie_tax": 0,
+  "rarity": 1,
+
+  "attributes": {
+    "agility": 100,
+    "weapon_skill": 75,
+    "valour": 55,
+    "toughness": 50,
+    "vitality": 25,
+    "precision": 35,
+    "positioning": 100
+  },
+
+  "initial_perk": "share_the_load",
+  "perk_trees": [
+    {
+      "perks": [
+        { "name": "athletic", "tier": 1 },
+        { "name": "scout", "tier": 2 },
+        { "name": "first_aid", "tier": 3 },
+        { "name": "power_in_numbers", "tier": 4 },
+        { "name": "team_spirit", "tier": 4 },
+        { "name": "reinforcements", "tier": 4 },
+        { "name": "covert_ops", "tier": 4 },
+        { "name": "trinketing", "tier": 4 },
+        { "name": "jump_the_grenade", "tier": 4 }
+      ]
+    }
+  ]
+}
