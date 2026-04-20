@@ -1,14 +1,14 @@
 # Ischenia Menace Squad Leaders
-
+\n
 Fraulein Killers Update: TBD
-
+\n
 Changes:
 
 + Gunny Minnie now hireable (Pilot with emphasis on stationary long range fire)
 + Anastasia Fedorovy now hireable (SL with emphasis on aggro absorption and counterattacking)
 + Ishmael Winters now hireable (SL with emphasis on rapid personel transport deep in enemy lines)
-
-
+\n
+\n
 =Eliza Heavyfield
   -Skills changed to make her a soldier good at any weapon given to her. Bottom T4 skills allow her to choose which normal threat she should specialize against.
   -Description modified to describe her intended role.
