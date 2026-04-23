@@ -7,6 +7,7 @@
 + Gunny Minnie now hireable (Pilot with emphasis on stationary long range fire)
 + Anastasia Fedorovy now hireable (SL with emphasis on aggro absorption and counterattacking)
 + Ishmael Winters now hireable (SL with emphasis on rapid personel transport deep in enemy lines)
++ Ocelot now hireable again (SL with emphasis on waiting for the right moment to strike)
 
 
 ### Eliza Heavyfield
