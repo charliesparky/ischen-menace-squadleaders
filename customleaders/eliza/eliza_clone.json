@@ -1,0 +1,42 @@
+{
+  "clone_from": "yaz",
+  "nickname": "Eliza",
+  "blackmarket_available": true,
+  "forename": "Eliza",
+  "surname": "Heavyfield",
+  "description": "Name: Eliza Heavyfield\n\nProficiency: War\n\nBirth: Sokolovka\n\nAge: Classified\n\nAffiliation(s): Frauleins",
+  "title": "Fraulein der Krieg",
+  "unit_description": "The pointman of Assault Team \"Zero\". Unironically loves the lifestyle of being in a PMC, literally asking for nothing but booze and bullets. Probably the most adaptable soldier in the Frauleins and its up to you on how you want to use her skillset.",
+  "quality_level": 1,
+  "growth_potential": 10,
+  "fixed_supply_cost": 2,
+  "squaddie_tax": 5,
+  "rarity": 1,
+
+  "attributes": {
+    "agility": 100,
+    "weapon_skill": 100,
+    "valour": 100,
+    "toughness": 100,
+    "vitality": 100,
+    "precision": 0,
+    "positioning": 100
+  },
+
+  "initial_perk": "fury",
+  "perk_trees": [
+    {
+      "perks": [
+        { "name": "athletic", "tier": 1 },
+        { "name": "pointfire", "tier": 2 },
+        { "name": "vanguard", "tier": 3 },
+        { "name": "run_and_gun", "tier": 4 },
+        { "name": "rewa_revel_in_slaughter", "tier": 4 },
+        { "name": "berserk", "tier": 4 },
+        { "name": "sharpshooter", "tier": 4 },
+        { "name": "tankbuster", "tier": 4 },
+        { "name": "unique_wetteroth_big_game_hunter", "tier": 4 }
+      ]
+    }
+  ]
+}

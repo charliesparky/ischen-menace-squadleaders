@@ -1,0 +1,42 @@
+{
+  "clone_from": "carda",
+  "nickname": "Dushy",
+  "blackmarket_available": true,
+  "forename": "Dushev",
+  "surname": "Dushevnaya",
+  "description": "Name: Dushevnaya\n\nProficiency: HALLO HOOMAN\n\nBirth: Cypheria\n\nAge: Classified\n\nAffiliation(s): Black Box",
+  "title": "Black Box",
+  "unit_description": "The android daughter of Ribbon. She is very adorable. Signature catchphrase: HALLO HOOMAN!",
+  "quality_level": 3,
+  "growth_potential": 10,
+  "fixed_supply_cost": 50,
+  "squaddie_tax": 0,
+  "rarity": 3,
+
+  "attributes": {
+    "agility": 100,
+    "weapon_skill": 90,
+    "valour": 55,
+    "toughness": 50,
+    "vitality": 100,
+    "precision": 75,
+    "positioning": 100
+  },
+
+  "initial_perk": "bags_belts",
+  "perk_trees": [
+    {
+      "perks": [
+        { "name": "athletic", "tier": 1 },
+        { "name": "scout", "tier": 2 },
+        { "name": "call_out_target", "tier": 3 },
+        { "name": "take_aim", "tier": 4 },
+        { "name": "impossible_shot", "tier": 4 },
+        { "name": "berserk", "tier": 4 },
+        { "name": "unique_wetteroth_big_game_hunter", "tier": 4 },
+        { "name": "ambush", "tier": 4 },
+        { "name": "unique_darby_high_value_targets", "tier": 4 }
+      ]
+    }
+  ]
+}
