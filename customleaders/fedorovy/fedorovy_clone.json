@@ -1,0 +1,42 @@
+{
+  "clone_from": "darby",
+  "nickname": "Fedorovy",
+  "blackmarket_available": true,
+  "forename": "Anastasia",
+  "surname": "Fedorovy",
+  "description": "Name: Anastasia Fedorovy\n\nProficiency: Green Inventions\n\nBirth: FCU\n\nAge: Classified\n\nAffiliation(s): FCU Greenwatch",
+  "title": "FCU Greenwatch",
+  "unit_description": "A Bishop-ranked Greenwatch operator who specializes in attrition defense. Born from an ordinary Class 9 parents, her skill in engineering propelled her academic career and her status into Class 4. She made her social breakthrough when she was able to create a powerful defensive device that can boost the survivability of herself and her squad by altering causalities through some weird means. While not everyone treats her research seriously, the device is quite effective in the field, though only she can use it effectively. She prefers to be equipped with an SMG with the longest range possible so she can perform counterattacks on any unit that lays fire upon her. Her skillset is focused on taking aggro onto herself and working around it. ",
+  "quality_level": 1,
+  "growth_potential": 10,
+  "fixed_supply_cost": 30,
+  "squaddie_tax": 2,
+  "rarity": 1,
+
+  "attributes": {
+    "agility": 100,
+    "weapon_skill": 80,
+    "valour": 90,
+    "toughness": 100,
+    "vitality": 100,
+    "precision": 0,
+    "positioning": 100
+  },
+
+  "initial_perk": "divine_intervention",
+  "perk_trees": [
+    {
+      "perks": [
+        { "name": "athletic", "tier": 1 },
+        { "name": "taunt", "tier": 2 },
+        { "name": "counter_strike", "tier": 3 },
+        { "name": "fortify", "tier": 4 },
+        { "name": "unique_vamplew_partir_de_rien", "tier": 4 },
+        { "name": "zig_zag", "tier": 4 },
+        { "name": "buff", "tier": 4 },
+        { "name": "payback", "tier": 4 },
+        { "name": "blaze_of_glory", "tier": 4 }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "clone_from": "ivey",
+  "nickname": "Gunny",
+  "blackmarket_available": true,
+  "forename": "Gunny",
+  "surname": "Minnie",
+  "description": "Name: Gunny Minnie\n\nProficiency: Being in Command\n\nBirth: FCU\n\nAge: Classified\n\nAffiliation(s): FCU Greenwatch",
+  "title": "FCU Greenwatch",
+  "unit_description": "A Horse-ranked Greenwatch operator who specalizes in tankery. Born with a silver spoon and isn't shy to abuse it to get what she wants, she managed to convince her father to get into a prestigious tankery school to become a skilled tank operator. While she isnt shy to rely on her family's riches and influence, one cannot deny she is quite good at her job. She prefers to be in a treaded vehicle with a long-barrelled tank gun so she can lay waste to enemy armor as her skillset is geared towards that.",
+  "quality_level": 4,
+  "growth_potential": 10,
+  "fixed_supply_cost": 120,
+  "squaddie_tax": 0,
+  "rarity": 4,
+
+  "attributes": {
+    "agility": 100,
+    "weapon_skill": 100,
+    "valour": 100,
+    "toughness": 50,
+    "vitality": 100,
+    "precision": 0,
+    "positioning": 30
+  },
+
+  "initial_perk": "barrage",
+  "perk_trees": [
+    {
+      "perks": [
+        { "name": "expert_pilot_vehicle", "tier": 1 },
+        { "name": "full_send", "tier": 2 },
+        { "name": "standby", "tier": 3 },
+        { "name": "berserk", "tier": 4 },
+        { "name": "tankbuster", "tier": 4 },
+        { "name": "directed_fire", "tier": 4 },
+        { "name": "steady_gun", "tier": 4 },
+        { "name": "shoot_and_scoot", "tier": 4 },
+        { "name": "roadkill", "tier": 4 }
+      ]
+    }
+  ]
+}
