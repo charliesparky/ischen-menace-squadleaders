@@ -1,0 +1,42 @@
+{
+  "clone_from": "carda",
+  "nickname": "Rumi",
+  "blackmarket_available": true,
+  "forename": "Rumi",
+  "surname": "Vyzovich",
+  "description": "Name: Rumi Vyzovich\n\nProficiency: Logistics\n\nBirth: Detritus\n\nAge: Classified\n\nAffiliation(s): Frauleins",
+  "title": "Fraulein der Krieg",
+  "unit_description": "The security officer of Logistics Department \"Llama\". She has a strong desire to be heard and loved in a positive way because of her unnactractive flaws, opting to express this by using these unattractive flaws to become a loud and imposing heavy juggernaut in the field. Prefers to be deployed with a minigun and the heaviest armor possible, as her skillset is focused on getting close and suppressing anyone who dares close in.",
+  "quality_level": 2,
+  "growth_potential": 10,
+  "fixed_supply_cost": 40,
+  "squaddie_tax": 10,
+  "rarity": 2,
+
+  "attributes": {
+    "agility": 100,
+    "weapon_skill": 85,
+    "valour": 90,
+    "toughness": 70,
+    "vitality": 100,
+    "precision": 20,
+    "positioning": 90
+  },
+
+  "initial_perk": "buff",
+  "perk_trees": [
+    {
+      "perks": [
+        { "name": "athletic", "tier": 1 },
+        { "name": "unique_rampage_tech", "tier": 2 },
+        { "name": "full_send", "tier": 3 },
+        { "name": "run_and_gun", "tier": 4 },
+        { "name": "berserk", "tier": 4 },
+        { "name": "bags_belts", "tier": 4 },
+        { "name": "taunt", "tier": 4 },
+        { "name": "suppressive_fire", "tier": 4 },
+        { "name": "grind_down", "tier": 4 }
+      ]
+    }
+  ]
+}
