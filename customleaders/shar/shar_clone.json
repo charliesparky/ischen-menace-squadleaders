@@ -1,0 +1,42 @@
+{
+  "clone_from": "rewa",
+  "nickname": "Shar Pitur",
+  "blackmarket_available": true,
+  "forename": "Shar",
+  "surname": "Pitur",
+  "description": "Name: Shar Pitur\n\nProficiency: Vehicles\n\nBirth: Detritus\n\nAge: Classified\n\nAffiliation(s): Frauleins",
+  "title": "Fraulein Der Krieg",
+  "unit_description": "The assistant mechanic of Armored Element \"Nosorog\". She is usually reserved and apologetic on the job, but once she starts driving a vehicle with enough metal to encapsulate her from the outside world, she undergoes a total personality shift and turns into a courageous hotheaded pilot willing to push her machine to its limit. Prefers to be deployed in a walker with twin-linked autocannons and would apply absurd defensive modifications on her machines so she can drive it fearlessly towards the enemy line and cause chaos.",
+  "quality_level": 3,
+  "growth_potential": 10,
+  "fixed_supply_cost": 100,
+  "squaddie_tax": 2,
+  "rarity": 3,
+
+  "attributes": {
+    "agility": 100,
+    "weapon_skill": 85,
+    "valour": 100,
+    "toughness": 50,
+    "vitality": 100,
+    "precision": 0,
+    "positioning": 80
+  },
+
+  "initial_perk": "die_hard",
+  "perk_trees": [
+    {
+      "perks": [
+        { "name": "expert_pilot_vehicle", "tier": 1 },
+        { "name": "drive_by", "tier": 2 },
+        { "name": "full_send", "tier": 3 },
+        { "name": "bags_belts", "tier": 4 },
+        { "name": "unbreakable_vehicle", "tier": 4 },
+        { "name": "berserk", "tier": 4 },
+        { "name": "barrage", "tier": 4 },
+        { "name": "lancer", "tier": 4 },
+        { "name": "dash_walker", "tier": 4 }
+      ]
+    }
+  ]
+}

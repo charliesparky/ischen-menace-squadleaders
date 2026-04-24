@@ -1,0 +1,42 @@
+{
+  "clone_from": "sy",
+  "nickname": "Ryoubi",
+  "blackmarket_available": true,
+  "forename": "Ryoubi",
+  "surname": "Nekonoma",
+  "description": "Name: Ryoubi Nekonoma\n\nProficiency: Warfare\n\nBirth: Cypheria\n\nAge: Classified\n\nAffiliation(s): Black Box",
+  "title": "Black Box",
+  "unit_description": "The Nekonoma Matriarch. The only person in Cypheria who can contest the authority of South Cypheria. So much so she was able to create an independent paramilitary organization BACKED by South Cy itself.",
+  "quality_level": 3,
+  "growth_potential": 10,
+  "fixed_supply_cost": 80,
+  "squaddie_tax": 0,
+  "rarity": 3,
+
+  "attributes": {
+    "agility": 100,
+    "weapon_skill": 100,
+    "valour": 100,
+    "toughness": 100,
+    "vitality": 100,
+    "precision": 100,
+    "positioning": 100
+  },
+
+  "initial_perk": "taking_command",
+  "perk_trees": [
+    {
+      "perks": [
+        { "name": "athletic", "tier": 1 },
+        { "name": "mobile_infantry", "tier": 2 },
+        { "name": "stalwart_pike_unique", "tier": 3 },
+        { "name": "unique_rampage_tech", "tier": 4 },
+        { "name": "sharpshooter", "tier": 4 },
+        { "name": "unique_yaz_no_mercy", "tier": 4 },
+        { "name": "share_the_load", "tier": 4 },
+        { "name": "berserk", "tier": 4 },
+        { "name": "jump_the_grenade", "tier": 4 }
+      ]
+    }
+  ]
+}

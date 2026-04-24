@@ -1,0 +1,42 @@
+{
+  "clone_from": "greifinger",
+  "nickname": "Ruru",
+  "blackmarket_available": true,
+  "forename": "Ruru",
+  "surname": "Nekonoma",
+  "description": "Name: Ruru Nekonoma\n\nProficiency: Wallstaring\n\nBirth: Cypheria\n\nAge: Classified\n\nAffiliation(s): Black Box",
+  "title": "Black Box",
+  "unit_description": "The Adopted One. A very odd creature who seems to do nothing but has a reputation of being capable of everything.",
+  "quality_level": 3,
+  "growth_potential": 10,
+  "fixed_supply_cost": 10,
+  "squaddie_tax": 20,
+  "rarity": 3,
+
+  "attributes": {
+    "agility": 100,
+    "weapon_skill": 100,
+    "valour": 100,
+    "toughness": 80,
+    "vitality": 100,
+    "precision": 20,
+    "positioning": 100
+  },
+
+  "initial_perk": "stalwart_pike_unique",
+  "perk_trees": [
+    {
+      "perks": [
+        { "name": "athletic", "tier": 1 },
+        { "name": "unique_rampage_tech", "tier": 2 },
+        { "name": "tankbuster", "tier": 3 },
+        { "name": "run_and_gun", "tier": 4 },
+        { "name": "disdain", "tier": 4 },
+        { "name": "determined", "tier": 4 },
+        { "name": "bags_belts", "tier": 4 },
+        { "name": "directed_fire", "tier": 4 },
+        { "name": "berserk", "tier": 4 }
+      ]
+    }
+  ]
+}
