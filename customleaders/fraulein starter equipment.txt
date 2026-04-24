@@ -1,0 +1,179 @@
+Starter Promotion Points = 80
+
+Starter Items
+
+====Eliza====
+
+assault_rifle_tier1_kpac_CQB = 1
+
+plasma_rifle = 1
+
+class_3_recce = 1
+
+ammo_armor_piercing = 1
+combat_drugs_s12_aphenedrin = 1
+
+
+====Rumi====
+
+combat_shotgun_tier_1_cs185 = 1
+
+tripod_minigun = 1
+
+class_6_xsapp = 1
+
+ammo_bag = 1
+ammo_bag = 1 (when she gets bags and belts)
+
+
+====Rita====
+
+generic_smg_tier1_ppp = 1
+
+class_3_recce = 1
+
+incendiary_grenade = 1
+smoke_grenade = 1
+incendiary_grenade = 1 (when she gets bags and belts)
+
+
+====Elwynn====
+
+smg_tier1_ppp_sof = 1
+
+generic_designated_marksman_rifle_tier2 = 1
+
+class_3_recce = 1
+
+binoculars = 1
+ammo_bag = 1
+
+
+====Shar====
+
+chassis_walker_medium = 1
+
+medium.autocannon = 2
+
+vehicle_ammo_cases = 2
+vehicle_ammo_cases = 1 (bags and belts)
+
+====Ocelot====
+
+assault_rifle_tier1_kpac_SOF = 1
+
+tripod_medium_mortar_80mm = 1
+
+jaeger_fatigues = 1
+
+camouflage_kit = 1
+target_designator = 1
+
+====Ruru====
+
+assault_rifle_tier2 = 1
+
+tripod_anti_tank_gun_rgl = 1
+
+class_3_operator = 1
+
+magazine_pouches = 1 (initial item)
+ammo_bag = 1
+binoculars = 1
+
+====Ribbon====
+
+assault_rifle_tier2 = 1
+
+infantry_automatic_rifle_tier2 = 1
+
+class_3_operator = 1 (starter item)
+
+binoculars = 1
+ammo_match_ammo = 1
+camouflage_kit = 1
+
+====Mimipi====
+
+chassis_carrier = 1 (initial item)
+
+heavy.cannon_long = 1
+heavy.cannon_short = 1
+
+light.auto_grenade_launcher = 1
+light.plasma_rifle = 1
+
+vehicle_advanced_sensors = 1
+vehicle_exploding_reactive_armor_era = 1
+
+
+====Ryoubi=====
+
+assault_rifle_tier2 = 1
+
+plasma_rifle = 1
+
+class_3_operator = 1
+
+binoculars = 1
+magazine_pouches = 1 (comes free)
+disposable_rocket_launcher = 1
+
+====Dushev====
+
+assault_rifle_tier2 = 1
+
+anti_materiel_rifle_tier1 = 1
+
+class_4_t1_rmc_lpps = 1
+
+target_designator = 1
+binoculars = 1
+ammo_bag = 2
+
+
+====Sussen=====
+
+battle_rifle_tier2_hamer = 1
+
+anti_materiel_rifle_tier1 = 1
+
+class_4_t1_rmc_lpps = 1
+
+camouflage_kit = 1
+binoculars = 1
+ammo_bag = 1
+
+====Ceina=====
+
+laser_rifle = 1
+
+tripod_rocketlauncher_atgm = 1
+
+class_3_operator = 1
+
+ap_pistol = 1
+ammo_bag = 1
+camouflage_kit = 1
+
+
+====Gunny Minnie====
+
+chassis_ifv = 1
+
+heavy.cannon_long = 1
+
+light.flamethrower = 1
+
+vehicle_smoke_launchers = 1
+vehicle_ammo_cases = 4
+
+
+====Fedorovy====
+
+smg_tier3_oktagon = 1
+
+class_4_t1_rmc_mtap = 1
+
+magazine_pouches = 1 (comes free)
+smoke_grenade = 2
