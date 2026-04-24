@@ -1,0 +1,42 @@
+{
+  "clone_from": "bog",
+  "nickname": "Ishmael",
+  "blackmarket_available": true,
+  "forename": "Ishmael",
+  "surname": "Winters",
+  "description": "Name: Ishmael Winters\n\nProficiency: Being a Sub\n\nBirth: Cypheria\n\nAge: Classified\n\nAffiliation(s): Black Box",
+  "title": "Black Box",
+  "unit_description": "The dedicated support personel of the Fox Team, Ishmael handles everything logistics for the girls. Usually very shy and easily pushed around, when matters are related to the girls' well-being, he surprisingly is always there for them and will stand up for them no matter what. He has no preference, but his entire lack of combat skills and the inclination of his skillset suggests you assign him to be your dedicated battle taxi driver + mobile cover.",
+  "quality_level": 1,
+  "growth_potential": 10,
+  "fixed_supply_cost": 5,
+  "squaddie_tax": 0,
+  "rarity": 1,
+
+  "attributes": {
+    "agility": 100,
+    "weapon_skill": 60,
+    "valour": 100,
+    "toughness": 50,
+    "vitality": 100,
+    "precision": 0,
+    "positioning": 100
+  },
+
+  "initial_perk": "fervor",
+  "perk_trees": [
+    {
+      "perks": [
+        { "name": "expert_pilot_vehicle", "tier": 1 },
+        { "name": "unique_sentry", "tier": 2 },
+        { "name": "inspiring_presence", "tier": 3 },
+        { "name": "taking_command", "tier": 4 },
+        { "name": "first_aid", "tier": 4 },
+        { "name": "command_rally", "tier": 4 },
+        { "name": "covert_ops", "tier": 4 },
+        { "name": "scout", "tier": 4 },
+        { "name": "unbreakable_vehicle", "tier": 4 }
+      ]
+    }
+  ]
+}

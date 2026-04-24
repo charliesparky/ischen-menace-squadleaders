@@ -1,0 +1,42 @@
+{
+  "clone_from": "lim",
+  "nickname": "Ocelot",
+  "blackmarket_available": true,
+  "forename": "Leon",
+  "surname": "Vyzovich",
+  "description": "Name: Leon Vyzovich\n\nProficiency: Counterintelligence\n\nBirth: Detritus\n\nAge: Classified\n\nAffiliation(s): Frauleins",
+  "title": "Fraulein der Krieg",
+  "unit_description": "The counterintelligence expert of Covert Office \"Python\". One of the few guys in the Fraulein ranks, and as a result, works fairly distant from the girls. While the girls are fine with him, he prefers to avoid working too closely with them to avoid any potential scandals. He is gifted in blending in the background, and is patient enough to maintain his hand until he can find a good opportunity to deal the highest amount of damage possible on a target. He has no preference on weapons, but would request to have as much concealment as possible for him to make use of his skillset.",
+  "quality_level": 1,
+  "growth_potential": 10,
+  "fixed_supply_cost": 20,
+  "squaddie_tax": 5,
+  "rarity": 1,
+
+  "attributes": {
+    "agility": 100,
+    "weapon_skill": 90,
+    "valour": 50,
+    "toughness": 50,
+    "vitality": 100,
+    "precision": 100,
+    "positioning": 80
+  },
+
+  "initial_perk": "standby",
+  "perk_trees": [
+    {
+      "perks": [
+        { "name": "athletic", "tier": 1 },
+        { "name": "covert_ops", "tier": 2 },
+        { "name": "ambush", "tier": 3 },
+        { "name": "lucky_shot", "tier": 4 },
+        { "name": "commando", "tier": 4 },
+        { "name": "assassin", "tier": 4 },
+        { "name": "taking_command", "tier": 4 },
+        { "name": "tankbuster", "tier": 4 },
+        { "name": "unique_wetteroth_big_game_hunter", "tier": 4 }
+      ]
+    }
+  ]
+}
