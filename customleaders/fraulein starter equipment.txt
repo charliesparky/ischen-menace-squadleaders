@@ -47,7 +47,7 @@ class_3_recce = 1
 
 binoculars = 1
 ammo_bag = 1
-
+camouflage_kit = 1 (bags and belts)
 
 ====Shar====
 
@@ -176,4 +176,4 @@ smg_tier3_oktagon = 1
 class_4_t1_rmc_mtap = 1
 
 magazine_pouches = 1 (comes free)
-smoke_grenade = 2
+smoke_grenade = 1
