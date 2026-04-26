@@ -1,0 +1,42 @@
+{
+  "clone_from": "carda",
+  "nickname": "Rabi",
+  "blackmarket_available": true,
+  "forename": "Rabiane",
+  "surname": "Tsukiko",
+  "description": "Name: Rabiane Tsukiko\n\nProficiency: CQB\n\nBirth: Cypheria\n\nAge: Classified\n\nAffiliation(s): Black Box",
+  "title": "Black Box/SOF-FOX",
+  "unit_description": "Second-in-command of the FOX Team. Friendly and motherly.",
+  "quality_level": 6,
+  "growth_potential": 10,
+  "fixed_supply_cost": 35,
+  "squaddie_tax": 0,
+  "rarity": 6,
+
+  "attributes": {
+    "agility": 100,
+    "weapon_skill": 90,
+    "valour": 100,
+    "toughness": 50,
+    "vitality": 100,
+    "precision": 50,
+    "positioning": 100
+  },
+
+  "initial_perk": "disruptive_fire",
+  "perk_trees": [
+    {
+      "perks": [
+        { "name": "athletic", "tier": 1 },
+        { "name": "finisher", "tier": 2 },
+        { "name": "mobile_infantry", "tier": 3 },
+        { "name": "flamboyant", "tier": 4 },
+        { "name": "buff", "tier": 4 },
+        { "name": "grind_down", "tier": 4 },
+        { "name": "impossible_shot", "tier": 4 },
+        { "name": "berserk", "tier": 4 },
+        { "name": "divine_intervention", "tier": 4 }
+      ]
+    }
+  ]
+}

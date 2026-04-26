@@ -1,0 +1,42 @@
+{
+  "clone_from": "darby",
+  "nickname": "Mana",
+  "blackmarket_available": true,
+  "forename": "Mana",
+  "surname": "Tsukiko",
+  "description": "Name: Mana Tsukiko\n\nProficiency: Heavy Equipment\n\nBirth: Cypheria\n\nAge: Classified\n\nAffiliation(s): Black Box",
+  "title": "Black Box/SOF-FOX",
+  "unit_description": "Vanguard of the FOX Team. Tsun-tsun and competitive.",
+  "quality_level": 6,
+  "growth_potential": 10,
+  "fixed_supply_cost": 35,
+  "squaddie_tax": 0,
+  "rarity": 6,
+
+  "attributes": {
+    "agility": 100,
+    "weapon_skill": 90,
+    "valour": 100,
+    "toughness": 50,
+    "vitality": 100,
+    "precision": 50,
+    "positioning": 100
+  },
+
+  "initial_perk": "disruptive_fire",
+  "perk_trees": [
+    {
+      "perks": [
+        { "name": "athletic", "tier": 1 },
+        { "name": "finisher", "tier": 2 },
+        { "name": "mobile_infantry", "tier": 3 },
+        { "name": "thats_a_knife", "tier": 4 },
+        { "name": "close_and_personal", "tier": 4 },
+        { "name": "fearsome", "tier": 4 },
+        { "name": "full_send", "tier": 4 },
+        { "name": "if_it_bleeds", "tier": 4 },
+        { "name": "this_is_my_rifle", "tier": 4 }
+      ]
+    }
+  ]
+}

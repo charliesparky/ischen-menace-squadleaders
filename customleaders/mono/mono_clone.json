@@ -1,0 +1,42 @@
+{
+  "clone_from": "carda",
+  "nickname": "Mono",
+  "blackmarket_available": true,
+  "forename": "Mono",
+  "surname": "Tsukiko",
+  "description": "Name: Mono Tsukiko\n\nProficiency: Long Range Supremacy\n\nBirth: Cypheria\n\nAge: Classified\n\nAffiliation(s): Black Box",
+  "title": "Black Box/SOF-FOX",
+  "unit_description": "Marksman of the FOX Team. Chill and optimistic.",
+  "quality_level": 6,
+  "growth_potential": 10,
+  "fixed_supply_cost": 35,
+  "squaddie_tax": 0,
+  "rarity": 6,
+
+  "attributes": {
+    "agility": 100,
+    "weapon_skill": 100,
+    "valour": 100,
+    "toughness": 50,
+    "vitality": 100,
+    "precision": 50,
+    "positioning": 100
+  },
+
+  "initial_perk": "finisher",
+  "perk_trees": [
+    {
+      "perks": [
+        { "name": "athletic", "tier": 1 },
+        { "name": "ambush", "tier": 2 },
+        { "name": "covert_ops", "tier": 3 },
+        { "name": "unique_rampage_tech", "tier": 4 },
+        { "name": "sharpshooter", "tier": 4 },
+        { "name": "scout", "tier": 4 },
+        { "name": "impossible_shot", "tier": 4 },
+        { "name": "scavenger", "tier": 4 },
+        { "name": "shooting_gallery", "tier": 4 }
+      ]
+    }
+  ]
+}
